@@ -1,0 +1,54 @@
+.navbar{
+    padding: 0;
+    margin: 0;
+   
+}
+
+
+.container-fluid{
+    margin:0;
+    padding: 0;
+    background-color: #F5F5DC;
+
+}
+
+
+.btn:hover{
+   background-color: black;
+}
+p{
+    font-size: xx-large;
+}
+.btn-brown:hover{
+      background-color: #F5F5DC;
+      color: brown;
+}
+.btn-brown{
+    color: whitesmoke;
+    font-size: x-large;
+}
+.dropdown-item:hover {
+    background-color: #888888; 
+    color: black
+  }
+  .card {
+    background-color: #F7D6EA ;
+    border-radius: 20px;
+    box-shadow:  rgba(90, 90, 90, 0.2);
+}
+.card-title {
+    color: #664646;
+  }
+  .card-text {
+    margin-bottom: 20px;
+  }
+
+  .col-3:hover{
+    scale: 1.01;
+  }
+  
+    
+  
+  
+  
+
