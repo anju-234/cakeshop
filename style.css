@@ -1,8 +1,10 @@
 .navbar{
     padding: 0;
     margin: 0;
+    
    
 }
+
 
 
 .container-fluid{
@@ -10,6 +12,12 @@
     padding: 0;
     background-color: #F5F5DC;
 
+}
+
+.btn:active {
+  background-color: #FFD700 ;
+  color: #FFFFFF ;
+  border: 2px solid #FFA500 ; 
 }
 
 
@@ -33,8 +41,8 @@ p{
   }
   .card {
     background-color: #F7D6EA ;
-    border-radius: 20px;
-    box-shadow:  rgba(90, 90, 90, 0.2);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .card-title {
     color: #664646;
@@ -44,6 +52,9 @@ p{
   }
 
   .col-3:hover{
+    scale: 1.01;
+  }
+  img{
     scale: 1.01;
   }
   
