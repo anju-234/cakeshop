@@ -4,23 +4,12 @@
     
    
 }
-
-
-
 .container-fluid{
     margin:0;
     padding: 0;
     background-color: #F5F5DC;
 
 }
-
-.btn:active {
-  background-color: #FFD700 ;
-  color: #FFFFFF ;
-  border: 2px solid #FFA500 ; 
-}
-
-
 .btn:hover{
    background-color: black;
 }
@@ -57,6 +46,21 @@ p{
   img{
     scale: 1.01;
   }
+  .style{
+    position: absolute;
+    top: 480%;
+   
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+   
+ }
+ .style:hover{
+  box-shadow: 2px 4px 6px  brown;
+ }
+
+  
+    
   
     
   
